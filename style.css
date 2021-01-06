@@ -42,6 +42,10 @@ nav > ul > li {
     font-size: 16px;
 }
 
+nav > ul > li > a {
+    color: #363958;
+}
+
 /* main starts from here */
 
 /* first section starts from here  */
@@ -276,14 +280,15 @@ nav > ul > li {
 
 .work-inquiry > h1 {
     color: white;
-    padding: 30px 0 0 40px;
+    padding: 30px 0 0 50px;
     float: left;
     font-size: 40px;
+    font-family: 'Bebas Neue', cursive;
 }
 
 .work-inquiry > div {
     float: left;
-    padding: 75px 0 0 200px;
+    padding: 75px 0 0 250px;
 }
 
 .work-inquiry > div > a {
